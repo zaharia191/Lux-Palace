@@ -1589,13 +1589,13 @@ legend {
     }
 }
 
-@media(max-width:377px) {
+@media(max-width:378px) {
     .img-fundal img {
-        height: 762px;
+        height: 758px;
     }
 
     .img-fundal {
-        height: 762px;
+        height: 758px;
     }
 
     .fundal-h1 {
